@@ -1,11 +1,15 @@
 # Prerequisites
 *.d
+*.vscode
+*.DS_Store
+.idea
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+*.objs
 
 # Precompiled Headers
 *.gch
@@ -30,3 +34,8 @@
 *.exe
 *.out
 *.app
+ircserv
+todo
+newnc.sh
+Makefile
+bot/bot
